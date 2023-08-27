@@ -52,18 +52,18 @@ Its an Key Fob Jammer to jam the Car Keys and an Wireless remote  keys like Gara
 <img src="/img/image.avif" alt="hackernowful" />
 <br>
 
-#Go to the config option then press that first setting icon and choose our downloaded bin file (packet_monitor.bin) from our GitHub
+#Go to the config option then press that first setting icon and choose our downloaded bin file (Key_Fob_Jammer_with_d1_mini.bin) from our GitHub
 
 #Then go back to that operation section. Now connect your d1 mini or any other esp8266 module after you plug in that your device you can see that Com port option appear choose your port and click flash button that is it!
 <br>
 <img src="/img/image (1).avif" alt="hackernowful" />
 <br>
-#IF nothing is shown on that display just press that reset button on your d1 mini board
+#Just press that reset button on your d1 mini board
 
 
 #Power on the circuit after flashing the firmware.
 
-#The WiFi Recon will automatically start running and displaying information on the OLED screen.
+#The Jammer will br automatically start .
 </pre>
 
 
