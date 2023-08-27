@@ -63,7 +63,9 @@ Its an Key Fob Jammer to jam the Car Keys and an Wireless remote  keys like Gara
 
 #Power on the circuit after flashing the firmware.
 
-#The Jammer will br automatically start .
+#The Jammer will be automatically start .
+
+# Happy Hacking
 </pre>
 
 
