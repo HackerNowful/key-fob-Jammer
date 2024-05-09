@@ -19,8 +19,8 @@ Its an Key Fob Jammer to jam the Car Keys and an Wireless remote  keys like Gara
 <br>
 <h3 align="center">Circuit Connection</h3>
 <br>
-<img src="/img/Circuit.png" alt="hackernowful" />
-<pre>
+<img src="/img/Circuit.png" alt="hackernowful" /><br><br>
+
  Flashing the Firmware
 
 #Download the compiled binary (.bin) file for the WiFi Recon project.
@@ -48,16 +48,16 @@ Its an Key Fob Jammer to jam the Car Keys and an Wireless remote  keys like Gara
 #In this thing there is a 2 files here. just install it depend on your configuration
 
 #Then open that esp8266 flasher it looks like this
-<br>
+<br><br>
 <img src="/img/image.avif" alt="hackernowful" />
-<br>
+<br><br>
 
 #Go to the config option then press that first setting icon and choose our downloaded bin file (Key_Fob_Jammer_with_d1_mini.bin) from our GitHub
 
 #Then go back to that operation section. Now connect your d1 mini or any other esp8266 module after you plug in that your device you can see that Com port option appear choose your port and click flash button that is it!
-<br>
+<br><br>
 <img src="/img/image (1).avif" alt="hackernowful" />
-<br>
+<br><br>
 #Just press that reset button on your d1 mini board
 
 
@@ -66,7 +66,6 @@ Its an Key Fob Jammer to jam the Car Keys and an Wireless remote  keys like Gara
 #The Jammer will be automatically start .
 
 # Happy Hacking
-</pre>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackernowful&label=Profile%20views&color=0e75b6&style=flat" alt="hackernowful" /> </p>
